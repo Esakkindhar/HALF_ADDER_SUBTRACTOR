@@ -1,9 +1,5 @@
 # HALF_ADDER_SUBTRACTOR
 
-NAME:P.VIGNESHWARAN
-
-REF NO:24900068
-
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
 **AIM:**
@@ -39,12 +35,6 @@ Figure -02 HALF Subtractor
 
 **Truthtable**
 
-
-![pic 1](https://github.com/user-attachments/assets/5664c8ed-052c-4b21-af63-be7b93a44d9d)![pic 1](https://github.com/user-attachments/assets/62c36c1f-f3f1-42d8-9294-0fdd16f00301)
-
-
-
-
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -60,55 +50,42 @@ Figure -02 HALF Subtractor
 
 **Program:**
 
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-i)HALF ADDER
+Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
-module ha(a,b,sum,carry);
+```
+Developed by: Esakkindhar
+RegisterNumber: 24001907
+```
+Half adder
+![Screenshot 2024-12-23 113613](https://github.com/user-attachments/assets/d4a3a934-ff67-4afe-ac59-ee2c163a326e)
 
-input a,b;
-
-output sum,carry;
-
-assign sum= (a ^ b);
-
-assign carry= ( a & b);
-
-endmodule
-
-ii)HALF SUBTRACTOR
-
-module hs(a,b,difference,borrow);
-
-input a,b;
-
-output difference,borrow;
-
-assign difference= (a ^ b);
-
-assign borrow= ( ~a & b);
-
-endmodule
+Half subtractor
 
 
-
-Developed by: RegisterNumber:*/
+![Screenshot 2024-12-23 114140](https://github.com/user-attachments/assets/0073afa4-8767-40a6-9cb8-eeabb3ea78a7)
 
 **RTL Schematic**
-1)HALF ADDER
 
-![ex -3 1](https://github.com/user-attachments/assets/8886682c-57cb-4a51-bacd-b224d97ed0c3)
+Half adder
+
+![Screenshot 2024-12-23 113627](https://github.com/user-attachments/assets/6e8ec868-b529-4936-b04e-d5f5a40da52b)
+
+Half subtractor
+
+
+![Screenshot 2024-12-23 114156](https://github.com/user-attachments/assets/5f3c8b1b-7dad-480a-a7d2-47590aadd4f9)
 
 
 **Output/TIMING Waveform**
-1)HALF ADDER
 
-![ex -3 2](https://github.com/user-attachments/assets/4603cb67-c70b-42a1-829f-2b267a2945c1)
+Half adder
+![Screenshot 2024-12-23 113832](https://github.com/user-attachments/assets/e00472be-0ca0-4f84-8e9e-0f1dd272fe1f)
 
-![ex-3 3](https://github.com/user-attachments/assets/97215f15-5409-4e21-9049-319c27b05e3f)
+Half subtractor
 
-
-
+![Screenshot 2024-12-23 114455](https://github.com/user-attachments/assets/14b15c9e-341a-42b2-91fc-d9114761bf1a)
 
 
 **Result:**
-Thus program is verified sucessfully.
+
+
