@@ -1,4 +1,4 @@
-![pic 1](https://github.com/user-attachments/assets/5664c8ed-052c-4b21-af63-be7b93a44d9d)![pic 1](https://github.com/user-attachments/assets/62c36c1f-f3f1-42d8-9294-0fdd16f00301)# HALF_ADDER_SUBTRACTOR
+# HALF_ADDER_SUBTRACTOR
 
 NAME:P.VIGNESHWARAN
 
@@ -38,11 +38,9 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
-![pic 1](https://github.com/user-attachments/assets/2308559c-843e-4519-b928-a9f9b315762a)
-
-![pic 2](https://github.com/user-attachments/assets/08f1f072-8988-4017-b7d7-8f816d19f2f2)
 
 
+![pic 1](https://github.com/user-attachments/assets/5664c8ed-052c-4b21-af63-be7b93a44d9d)![pic 1](https://github.com/user-attachments/assets/62c36c1f-f3f1-42d8-9294-0fdd16f00301)
 
 
 
