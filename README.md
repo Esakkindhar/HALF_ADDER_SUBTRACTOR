@@ -106,7 +106,9 @@ Developed by: RegisterNumber:*/
 
 ![ex -3 2](https://github.com/user-attachments/assets/4603cb67-c70b-42a1-829f-2b267a2945c1)
 
-![ex -3 2](https://github.com/user-attachments/assets/bf465bac-5ca6-42fb-ba95-4b222afafb02)
+![ex-3 3](https://github.com/user-attachments/assets/97215f15-5409-4e21-9049-319c27b05e3f)
+
+
 
 
 
